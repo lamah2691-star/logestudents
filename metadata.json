@@ -1,0 +1,6 @@
+{
+  "name": "LogeStudent Hafia - Logement Étudiant Labé",
+  "description": "Plateforme web interactive et responsive de recherche et réservation sécurisée de logements pour les étudiants orientés à Hafia (Labé, Guinée).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
